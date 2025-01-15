@@ -3,7 +3,7 @@
 <a href='https://scholar.google.com/citations?user=DvrngV4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChen-Xieyuanli%2Fchen-xieyuanli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"></a> &ensp;
 [![](https://img.shields.io/badge/ResearchGate-Xieyuanli--Chen-grey?style=flat-square&labelColor=00ccbb&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Xieyuanli-Chen) &ensp;
 [![](https://img.shields.io/badge/Mail-chenxieyuanli-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:chenxieyuanli@hotmail.com) &ensp;
-[![](https://img.shields.io/badge/Homepage-xieyuanli--chen-grey?style=flat-square&labelColor=491F59&logo=homebridge&logoColor=white)](https://www.xieyuanli-chen.com) &ensp;
+[![](https://img.shields.io/badge/Homepage-xieyuanli--chen-grey?style=flat-square&labelColor=491F59&logo=homebridge&logoColor=white)](https://chen-xieyuanli.github.io/) &ensp;
 
 I'm an Associate Professor at NUDT. I'm also an Associate Editor for IEEE RA-L, ICRA, and IROS. My research topics are Robotics, Localization, Mapping, SLAM, Robot Learning, Visual and LiDAR Perception, Rescue Robots.
 
